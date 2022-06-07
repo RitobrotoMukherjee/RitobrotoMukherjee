@@ -17,7 +17,7 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/ritobroto-mukherjee-519148ba/'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/64px-Linkedin_icon.svg.png"/></a> &nbsp; &nbsp;
-<a href = 'https://twitter.com/RitobrotoM3'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png"/></a> &nbsp; &nbsp; <a href = 'mailto:rito.freelancer@gmail.com'> <img width = '32px' align= 'center' src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg"/></a> 
+<a href = 'https://twitter.com/RitobrotoM3'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png"/></a> &nbsp; &nbsp; <a href = 'mailto:ritobrotomukherjee1991@gmail.com'> <img width = '32px' align= 'center' src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg"/></a> 
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">               
