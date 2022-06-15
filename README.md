@@ -47,11 +47,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">               
 </p>
 
-#### Git Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RitobrotoMukherjee&show_icons=true&locale=en&layout=compact" alt="Ritobroto Mukherjee" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RitobrotoMukherjee&show_icons=true&locale=en" alt="Ritobroto Mukherjee" /></p>
+### My Github stats card <img src="https://media.giphy.com/media/THICzXhqZItpoFX7aD/giphy.gif" width="40">:
+| <a href="#"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=RitobrotoMukherjee&count_private=true&show_icons=true&include_all_commits=true&theme=moltack&border_radius=10" alt="Ritobroto's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitobrotoMukherjee&layout=compact&theme=moltack&border_radius=10&card_width=260" /></a> | 
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">               
