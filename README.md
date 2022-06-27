@@ -6,7 +6,7 @@
 <h2>Fun facts about me:</h2>
 
 - **I have an immense passion towards ***Technology, Multi Culture, and Geo Politics***⚡**
--  **I love JavaScript, Python, and PHP 👩🏻‍💻**
+-  **I love JavaScript, PHP and C++ 👩🏻‍💻**
 -  **I love learning new technologies 🧑🏽‍💻**
 -  **I Like to workout and watch TV Series in my spare time 🎧**
 -  **I love building useful software for everyone 🧑🏽‍💻!**
