@@ -62,6 +62,7 @@
 
 
 ### My Github stats card
+---
   <a href="#" align="left"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=RitobrotoMukherjee&count_private=true&show_icons=true&include_all_commits=true&theme=moltack&border_radius=10" alt="Ritobroto's github stats" /></a>&nbsp;
   <a href="#" align="right"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitobrotoMukherjee&layout=compact&theme=moltack&border_radius=10&card_width=260" /></a>
 
