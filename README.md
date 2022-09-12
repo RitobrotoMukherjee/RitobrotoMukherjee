@@ -1,7 +1,7 @@
 # Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=7AF79A&lines=I'm+Ritobroto;I'm+a+full+stack+developer;I+live+to+code;I+love+workout;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=7AF79A&lines=I'm+Ritobroto;I'm+a+full+stack+developer;I+live+to+code;I+love+doing+workout;)](https://git.io/typing-svg)
 
 <h2>Fun facts about me:</h2>
 
