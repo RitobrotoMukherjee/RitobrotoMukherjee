@@ -1,12 +1,12 @@
 # Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=7AF79A&lines=I'm+Ritobroto;I'm+a+full+stack+developer;I+live+to+code+,+and+drinking+coffee;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=7AF79A&lines=I'm+Ritobroto;I'm+a+full+stack+developer;I+live+to+code;I+love+workout;)](https://git.io/typing-svg)
 
 <h2>Fun facts about me:</h2>
 
 - **I have an immense passion towards ***Technology, Multi Culture, and Geo Politics***⚡**
--  **I love JavaScript, PHP and C++ 👩🏻‍💻**
+-  **I love JavaScript, React JS, Node, and C++ a lot 👩🏻‍💻**
 -  **I love learning new technologies 🧑🏽‍💻**
 -  **I Like to workout and watch TV Series in my spare time 🎧**
 -  **I love building useful software for everyone 🧑🏽‍💻!**
