@@ -70,4 +70,4 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">               
 </p>
 
-[![Rito's Activity Graph](https://activity-graph.herokuapp.com/graph?username=RitobrotoMukherjee&custom_title=Ritobroto's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/RitobrotoMukherjee/)
+[![Rito's Activity Graph](https://activity-graph.herokuapp.com/graph?username=RitobrotoMukherjee&custom_title=Ritobroto's%20Contribution%20Graph&theme=gruvbox&bg_color=3333cc&color=ffffff&hide_border=true&line=fff&point=ff0000)](https://github.com/RitobrotoMukherjee/)
