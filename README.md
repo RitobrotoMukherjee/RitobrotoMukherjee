@@ -52,7 +52,7 @@
 ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
-![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb)
+![InnoDB](https://img.shields.io/badge/-InnoDB-05122A?style=flat&logo=InnoDB)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 
@@ -70,7 +70,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">               
 </p>
 
-[![Rito's Activity Graph](https://activity-graph.herokuapp.com/graph?username=RitobrotoMukherjee&custom_title=Ritobroto's%20Contribution%20Graph&theme=gruvbox&bg_color=3333cc&color=ffffff&hide_border=true&line=fff&point=ff0000)](https://github.com/RitobrotoMukherjee/)
+[![Rito's Activity Graph](https://activity-graph.herokuapp.com/graph?username=RitobrotoMukherjee&custom_title=Ritobroto's%20Contribution%20Graph&theme=gruvbox&bg_color=3333cc&color=ffffff&hide_border=true&line=fff&point=ffff00)](https://github.com/RitobrotoMukherjee/)
 
 <div  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">               
