@@ -7,6 +7,7 @@
 
 - **I have an immense passion towards ***Technology, Multi Culture, and Geo Politics***⚡**
 -  **I love JavaScript, React JS, Node, and C++ a lot 👩🏻‍💻**
+- **I am learning Java and Spring Boot at moment👩🏻‍💻**
 -  **I love learning new technologies 🧑🏽‍💻**
 -  **I Like to workout and watch TV Series in my spare time 🎧**
 -  **I love building useful software for everyone 🧑🏽‍💻!**
@@ -27,6 +28,7 @@
 <h2 align="left">Languages and Tools</h2>
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
+![JAVA](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)
 ![Laravel](https://img.shields.io/badge/-laravel-05122A?style=flat&logo=laravel)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
@@ -39,6 +41,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 ![CSS](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
@@ -50,7 +53,6 @@
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)
 ![Babel](https://img.shields.io/badge/-Babel-05122A?style=flat&logo=babel)
 ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
 ![InnoDB](https://img.shields.io/badge/-InnoDB-05122A?style=flat&logo=InnoDB)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
