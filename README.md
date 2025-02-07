@@ -33,6 +33,7 @@
 ![Laravel](https://img.shields.io/badge/-laravel-05122A?style=flat&logo=laravel)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=plastic&logo=angular&logoColor=red&labelColor=grey&color=blue)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)
