@@ -6,8 +6,8 @@
 <h2>Fun facts about me:</h2>
 
 -  **I have an immense passion towards ***Technology, Multi Culture, and Geo Politics***⚡**
--  **I love JavaScript, React JS, Angular, Node, Express JS, NextJS, and Java a lot 👩🏻‍💻**
--  **I am learning Redis, AWS, React Native, and Spring Boot at the moment👩🏻‍💻**
+-  **I love JavaScript, React JS, Angular, Node, Express JS, NextJS, and Python a lot 👩🏻‍💻**
+-  **I am learning Redis, AWS, React Native, and Data Science using Python3 at the moment👩🏻‍💻**
 -  **I love learning new technologies 🧑🏽‍💻**
 -  **I Like to work out and watch TV Series in my spare time 🎧**
 -  **I love building useful software for everyone 🧑🏽‍💻!**
